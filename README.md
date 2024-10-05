@@ -2,15 +2,13 @@
 
 #### 🔭 I’m currently working on... 
 
-Converting all of my Projects to Blazor WebAssembly. 
+Converting all of my Projects to .NET Web Apps and host them in Azure. 
 
-This means my apps will be fast, easy to deploy to Netlify for demo purposes and demonstrates knowledge of the latest technologies.
-
-This is helping me achieve my goal: [Blazor WebAssembly 3.2.0 now available](https://devblogs.microsoft.com/aspnet/blazor-webassembly-3-2-0-now-available/ "Blazor WebAssembly 3.2.0 now available")
+This means my apps will be fast, easy to deploy for demo purposes and demonstrates knowledge of the latest technologies in Backend, Frontend and the Cloud.
 
 #### 💡 I’m currently learning...
 
-JavaScript Frameworks - I've chosen Angular as it's the main frontend framework used at my current job. It's another string in my bow on the path to becoming a Full Stack Web Developer.
+JavaScript Frameworks - I've chosen React as it's a main frontend framework used in the industry. It's another string in my bow on the path to becoming a Full Stack Web Developer.
 
 #### 📚 I'm currently reading...
 
