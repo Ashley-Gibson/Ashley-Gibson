@@ -2,13 +2,15 @@
 
 #### 🔭 I’m currently working on... 
 
-Converting all of my Projects to .NET Web Apps and host them in Azure. 
+Converting all of my Personal Projects to .NET Web Apps and host them in Azure. 
 
 This means my apps will be fast, easy to deploy for demo purposes and demonstrates knowledge of the latest technologies in Backend, Frontend and the Cloud.
 
 #### 💡 I’m currently learning...
 
-JavaScript Frameworks - I've chosen React as it's a main frontend framework used in the industry. It's another string in my bow on the path to becoming a Full Stack Web Developer.
+- Event Sourcing - as a way to bolster Event Processing.
+- NoSQL/Non-Relational data stores - to explore alternatives for Write-heavy/Document-based databases.
+- JavaScript Frameworks - I've chosen React as it's a main frontend framework used in the industry. It's another string in my bow on the path to becoming a Full Stack Web Developer.
 
 #### 📚 I'm currently reading...
 
